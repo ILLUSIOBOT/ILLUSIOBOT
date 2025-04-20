@@ -1,9 +1,6 @@
 <h1 align="center">Hey there 👋, I'm ILLUSIOBOT</h1>
 <h3 align="center">Code magician ⚡ | BCA + AI Student 🧠 | React & Python Enthusiast 🧩</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="400"/>
-</p>
 
 ---
 
